@@ -26,7 +26,7 @@ export default function Footer() {
      <img src={twitter} className="socialSvg" alt="logo" />
     </a>
 
-    <a className="socialContainer containerFive" href="/">
+    <a className="socialContainer containerFive" href="#">
      <img src={linkedin
      } className="socialSvg" alt="logo" />
     </a>
