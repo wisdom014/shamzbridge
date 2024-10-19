@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/shamzbridge/static/css/main.63755c30.css",
+    "main.js": "/shamzbridge/static/js/main.27deb105.js",
+    "static/media/shamz.png": "/shamzbridge/static/media/shamz.8e64f826f179bf7aa860.png",
+    "static/media/instagram.svg": "/shamzbridge/static/media/instagram.89ec4301e5d6dfea7b72c8e759837405.svg",
+    "static/media/linkedin.svg": "/shamzbridge/static/media/linkedin.259f6ef4db6fcae69e84eccfec438a5d.svg",
+    "static/media/facebook.svg": "/shamzbridge/static/media/facebook.4dfa1cb6c76432c43cab7eb8f75593c7.svg",
+    "static/media/whatsapp.svg": "/shamzbridge/static/media/whatsapp.663fff2cf86356b717c76abf11fdbfd4.svg",
+    "static/media/twitter.svg": "/shamzbridge/static/media/twitter.5e8c2c32993ee7701f058c52f2470260.svg",
+    "index.html": "/shamzbridge/index.html",
+    "main.63755c30.css.map": "/shamzbridge/static/css/main.63755c30.css.map",
+    "main.27deb105.js.map": "/shamzbridge/static/js/main.27deb105.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63755c30.css",
+    "static/js/main.27deb105.js"
+  ]
+}
