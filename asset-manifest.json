@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shamzbridge/static/css/main.d7548dfd.css",
-    "main.js": "/shamzbridge/static/js/main.d3de411f.js",
+    "main.js": "/shamzbridge/static/js/main.f8dffe2d.js",
     "static/media/shamz.png": "/shamzbridge/static/media/shamz.8e64f826f179bf7aa860.png",
     "static/media/instagram.svg": "/shamzbridge/static/media/instagram.89ec4301e5d6dfea7b72c8e759837405.svg",
     "static/media/linkedin.svg": "/shamzbridge/static/media/linkedin.259f6ef4db6fcae69e84eccfec438a5d.svg",
@@ -10,10 +10,10 @@
     "static/media/twitter.svg": "/shamzbridge/static/media/twitter.5e8c2c32993ee7701f058c52f2470260.svg",
     "index.html": "/shamzbridge/index.html",
     "main.d7548dfd.css.map": "/shamzbridge/static/css/main.d7548dfd.css.map",
-    "main.d3de411f.js.map": "/shamzbridge/static/js/main.d3de411f.js.map"
+    "main.f8dffe2d.js.map": "/shamzbridge/static/js/main.f8dffe2d.js.map"
   },
   "entrypoints": [
     "static/css/main.d7548dfd.css",
-    "static/js/main.d3de411f.js"
+    "static/js/main.f8dffe2d.js"
   ]
 }
