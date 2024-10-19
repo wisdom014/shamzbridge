@@ -10,19 +10,19 @@ export default function Footer() {
   <footer className="footer">
    <p>&copy; 2024 HR Landing Page. All rights reserved.</p>
    <div className="card">
-    <a className="socialContainer containerOne" href="/">
+    <a className="socialContainer containerOne" href="#">
      <img src={instagram} className="socialSvg" alt="logo" />
     </a>
 
-    <a className="socialContainer containerTwo" href="/">
+    <a className="socialContainer containerTwo" href="#">
      <img src={facebook} className="socialSvg" alt="logo" />
     </a>
 
-    <a className="socialContainer containerThree" href="/">
+    <a className="socialContainer containerThree" href="#">
      <img src={whatsapp} className="socialSvg" alt="logo" />
     </a>
 
-    <a className="socialContainer containerFour" href="/">
+    <a className="socialContainer containerFour" href="#">
      <img src={twitter} className="socialSvg" alt="logo" />
     </a>
 
