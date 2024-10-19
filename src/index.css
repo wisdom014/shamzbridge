@@ -269,7 +269,7 @@ h3 {
   margin: 0 auto;
   margin-bottom: 20px;
   align-items: center;
-  width: 330px;
+  width: fit-content;
 }
 
 .about-text h3 {
@@ -296,7 +296,7 @@ h3 {
   margin: 0 auto;
   align-items: center;
   margin-bottom: 20px;
-  width: 330px;
+  width: fit-content;
 }
 
 .service-item h3 {
@@ -326,14 +326,15 @@ h3 {
   align-items: center;
   text-align: center;
   justify-content: center;
-  padding: 25px 25px;
-  gap: 20px;
+  padding: 25px 0;
+  gap: 17px;
   margin: 0 auto;
 }
 
 .socialContainer {
-  width: 52px;
-  height: 52px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
   border-radius: 50%;
   background-color: var(--background-400);
   display: flex;
