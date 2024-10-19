@@ -8,7 +8,7 @@ import linkedin from "../img/linkedin.svg";
 export default function Footer() {
  return (
   <footer className="footer">
-   <p>&copy; 2023 HR Solutions. All rights reserved.</p>
+   <p>&copy; 2024 HR Landing Page. All rights reserved.</p>
    <div className="card">
     <a className="socialContainer containerOne" href="/">
      <img src={instagram} className="socialSvg" alt="logo" />

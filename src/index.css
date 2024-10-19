@@ -269,15 +269,20 @@ h3 {
   margin: 0 auto;
   margin-bottom: 20px;
   align-items: center;
-  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  max-width: fit-content;
 }
 
 .about-text h3 {
   color: var(--text-100);
+  margin: 5px 0 20px 0;
 }
 
 .about-text p {
   color: var(--background-100);
+  margin: 5px 0 20px 0;
 }
 
 /* SERVICES */
@@ -292,19 +297,24 @@ h3 {
 .service-item {
   background-color: var(--background-100);
   border-radius: 12px;
+  display: flex;
+  flex-direction: column;
   padding: 20px;
   margin: 0 auto;
   align-items: center;
   margin-bottom: 20px;
-  width: fit-content;
+  width: 70%;
+  max-width: fit-content;
 }
 
 .service-item h3 {
   color: var(--accent-300);
+  margin: 5px 0 20px 0;
 }
 
 .service-item p {
   color: var(--text-100);
+  margin: 5px 0 20px 0;
 }
 
 /* FOOTER */
